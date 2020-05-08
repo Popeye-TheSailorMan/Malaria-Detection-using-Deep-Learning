@@ -4,7 +4,7 @@ Malaria is a mosquito-borne parasitic infection spread by a female Anopheles mos
 
 To improve diagnosis, image analysis software and machine learning methods have been used to quantify parasitemia in microscopic blood slides. So I have implemented my CNN model for classification of Parasitized nad uninfected human cells from malaria
 
-The results turns out that our was able to achieve a accuracy of 91% when trained on kaggle and 96% on my own desktop in classifying between the two categories of cells
+The results turns out that our was able to achieve a accuracy of 96% in classifying between the two categories of cells
 
 Dataset Link: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 Kaggle notebook: https://www.kaggle.com/abhisaxena1999/malaria-detection-using-cnn-accuracy-96
